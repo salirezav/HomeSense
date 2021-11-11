@@ -1,4 +1,4 @@
-Timestamp,light Intensity,Temperature,Humidity,PPM,C_PPM,Motion
+Timestamp,lightIntensity,Temperature,Humidity,PPM,C_PPM,Motion
 2021-11-06 20:58:21.867557,0,24,42,37683.06,65070.94,0
 2021-11-06 21:00:24.466915,0,24,42,278172.0,30691.86,0
 2021-11-06 21:01:26.077565,0,24,42,278172.0,30691.86,0

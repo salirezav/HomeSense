@@ -61,6 +61,7 @@ def NewClientThread(connection):
             # connection.sendall(str.encode(reply))
 
 
+# DeviceName: Living Room;Light:120;temp:25;ppm:3000;
 def read_values():
     while True:
         print("getting")
